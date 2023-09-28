@@ -1,0 +1,178 @@
+"id","nome","areaSTIBM","latitudine","longitudine","tipo_mezzo"
+1,Milano Cadorna,Mi1,"9.175523","45.4684048",treno
+2,Milano Porta Garibaldi (superficie),Mi1,"9.187309","45.48453",treno
+3,Milano San Cristoforo,"","9.130128","45.4423024",treno
+4,Milano Greco Pirelli,Mi1,"9.2141883","45.5128894",treno
+5,Rho,Mi4,"9.0435651","45.5241021",treno
+6,Milano Lambrate,Mi1,"9.2376864","45.4854753",treno
+7,Abbiategrasso,"","8.9205948","45.3975857",treno
+8,Legnano,Mi7,"8.9108573","45.5936932",treno
+9,Sesto San Giovanni,Mi3,"9.2389741","45.5412987",treno
+10,Milano Repubblica,Mi1,"9.1988454","45.4803739",treno
+11,Cassano d Adda,Mi7,"9.512329","45.5146387",treno
+12,Trecella,Mi6,"9.4806915","45.5128645",treno
+13,Pioltello-Limito,Mi4,"9.3282178","45.4858769",treno
+14,Milano Dateo,Mi1,"9.2173702","45.4672656",treno
+15,Vittuone-Arluno,Mi5,"8.9472481","45.4909119",treno
+16,Milano Villapizzone,Mi1,"9.1507399","45.5021322",treno
+17,Corbetta-Santo Stefano Ticino,Mi6,"8.918125","45.4812181",treno
+18,Albairate-Vermezzo,"","8.9581692","45.4044475",treno
+19,Novate Milanese,Mi3,"9.1324515","45.5329489",treno
+20,Bollate Centro,Mi3,"9.1230836","45.5427361",treno
+21,Milano Certosa,Mi1,"9.136257","45.5067834",treno
+22,Milano Quarto Oggiaro,Mi1,"9.1456385","45.5191956",treno
+23,Bollate Nord,Mi3,"9.1120724","45.5526203",treno
+24,Rho Fiera,Mi3,"9.0884719","45.5211715",treno
+25,Vanzago-Pogliano,Mi5,"8.995722","45.5253703",treno
+26,San Giuliano Milanese,Mi4,"9.2865445","45.3913126",treno
+27,Canegrate,Mi7,"8.9267176","45.5693375",treno
+28,Parabiago,Mi6,"8.94649","45.5526039",treno
+29,Melegnano,Mi5,"9.3193708","45.3565162",treno
+30,Milano Porta Romana,"","9.2141267","45.4459202",treno
+31,Vanzaghello-Magnago,"","8.7876859","45.5777373",treno
+32,Pregnana Milanese,Mi5,"9.0027724","45.5101412",treno
+33,Turbigo,"","8.7389171","45.5281001",treno
+34,Magenta,Mi7,"8.8807055","45.4680853",treno
+35,Milano Porta Garibaldi (passante),Mi1,"9.1866425","45.4840444",treno
+36,Milano Porta Venezia,Mi1,"9.2087419","45.4757916",treno
+37,Melzo,Mi5,"9.4190908","45.5021136",treno
+38,Villamaggiore,Mi5,"9.190542","45.3204792",treno
+39,Locate Triulzi,Mi4,"9.2214959","45.3596816",treno
+40,Vignate,Mi5,"9.3753293","45.4941764",treno
+41,Palazzolo Milanese,Mi4,"9.1566795","45.5810644",treno
+42,Milano Centrale,Mi1,"9.2042617","45.4858786",treno
+43,Cesate,Mi5,"9.0663274","45.5908019",treno
+44,Garbagnate Milanese,Mi4,"9.0803792","45.5802116",treno
+45,Milano Domodossola,Mi1,"9.1622235","45.480874",treno
+46,Pozzuolo Martesana,Mi6,"9.4564241","45.5085926",treno
+47,Rescaldina,"","8.9465177","45.6221692",treno
+48,Garbagnate Parco delle Groane,Mi4,"9.0909206","45.5711134",treno
+49,Paderno Dugnano,Mi4,"9.1612968","45.5649765",treno
+50,Cormano-Cusano Milanino,Mi3,"9.1737476","45.5454101",treno
+51,Milano Bruzzano,Mi1,"9.1727917","45.5332294",treno
+52,Milano Affori,Mi1,"9.1675094","45.5215137",treno
+53,Milano Bovisa-Politecnico,Mi1,"9.1592952","45.5022164",treno
+54,Milano Lancetti,Mi1,"9.1770923","45.493595",treno
+55,Milano Forlanini,Mi1,"9.2368533","45.4645605",treno
+56,Milano Porta Vittoria,Mi1,"9.2238754","45.4595004",treno
+57,Milano Rogoredo,Mi1,"9.2386128","45.4336129",treno
+58,Pieve Emanuele,Mi4,"9.2033377","45.3396299",treno
+59,San Zenone al Lambro,Mi6,"9.3616725","45.3378393",treno
+60,Borgolombardo,Mi4,"9.271834","45.4031267",treno
+61,San Donato Milanese,Mi3,"9.2531886","45.4185025",treno
+62,Segrate,Mi3,"9.2985535","45.4808063",treno
+63,Milano Romolo,Mi1,"9.1678498","45.4432682",treno
+64,Milano Porta Genova,Mi1,"9.1696116","45.4532634",treno
+65,Gorgonzola,Mi5,"9.4036177","45.5365447",metro
+66,Cologno Nord,Mi3,"9.2911363","45.5342918",metro
+67,Cologno Centro,Mi3,"9.2829619","45.5275053",metro
+68,Rho Fieramilano,Mi3,"9.0873777","45.5197823",metro
+69,Dergano,Mi1,"9.1795675","45.5055437",metro
+70,Assago Milanofiori Nord,Mi3,"9.1500362","45.4094526",metro
+71,Assago Milanofiori Forum,Mi3,"9.1455762","45.4018117",metro
+72,Affori FN,Mi1,"9.1682909","45.5216145",metro
+73,Cascina Gobba,Mi1/Mi3,"9.2606304","45.5111613",metro
+74,Garibaldi FS,Mi1,"9.1877146","45.4835188",metro
+75,Bussero,Mi4,"9.3758581","45.5254191",metro
+76,Cascina Antonietta,Mi5,"9.4237109","45.5419227",metro
+77,Porta Venezia,Mi1,"9.2058895","45.4753258",metro
+78,Cassina de  Pecchi,Mi4,"9.3620355","45.5216849",metro
+79,Duomo,Mi1,"9.1885548","45.4641385",metro
+80,Cologno Sud,Mi3,"9.2749277","45.5201965",metro
+81,Bisceglie,Mi1,"9.1129252","45.4553979",metro
+82,Famagosta,Mi1,"9.1681331","45.4368888",metro
+83,Abbiategrasso-Chiesa Rossa,Mi1,"9.1773223","45.430014",metro
+84,Rogoredo FS,Mi1,"9.2380577","45.4335776",metro
+85,Turati,Mi1,"9.1947419","45.4746191",metro
+86,Montenapoleone,Mi1,"9.1927671","45.4700892",metro
+87,Repubblica,Mi1,"9.1979411","45.4794372",metro
+88,Maciachini,Mi1,"9.1850263","45.4976899",metro
+89,Zara,Mi1,"9.1928945","45.4926642",metro
+90,Sondrio,Mi1,"9.2008456","45.48983",metro
+91,Centrale FS,Mi1,"9.2032043","45.4845016",metro
+92,Affori Centro,Mi1,"9.1739662","45.5135394",metro
+93,Comasina,Mi1,"9.1637084","45.5281283",metro
+94,Linate Aeroporto,"","9.2782196","45.4628444",metro
+95,Stazione Forlanini,"","9.2363556","45.4643154",metro
+96,Repetti,"Le prime fermate che saranno inaugurate il 26 novembre saranno: Linate Aeroporto, Repetti (che collega il quartiere Forlanini con il resto della cittÃ ), Stazione Forlanini (che si incrocia con il passante), Argonne, Susa e Dateo (anche qui si collega con","9.2403893","45.4620064",metro
+97,San Donato,Mi1/Mi3,"9.2563154","45.429086",metro
+98,Porto di Mare,Mi1,"9.2303777","45.4371382",metro
+99,Brenta,Mi1,"9.2185197","45.4427688",metro
+100,Corvetto,Mi1,"9.2234375","45.4403776",metro
+101,Lodi T.I.B.B.,Mi1,"9.2107332","45.4468046",metro
+102,Porta Romana,Mi1,"9.2032066","45.4515333",metro
+103,Crocetta,Mi1,"9.1955754","45.4562736",metro
+104,Missori,Mi1,"9.1893681","45.4599554",metro
+105,Gioia,Mi1,"9.1947909","45.4848401",metro
+106,Lambrate FS,Mi1,"9.2356061","45.4844482",metro
+107,Piola,Mi1,"9.2252588","45.4808531",metro
+108,Loreto,Mi1,"9.2157423","45.4852129",metro
+109,Caiazzo,Mi1,"9.2094139","45.4853047",metro
+110,Crescenzago,Mi1,"9.2477628","45.5048602",metro
+111,Cimiano,Mi1,"9.2407696","45.499541",metro
+112,Udine,Mi1,"9.2370179","45.4912082",metro
+113,Cascina Burrona,Mi3,"9.297902","45.5173026",metro
+114,Vimodrone,Mi3,"9.2856571","45.515756",metro
+115,Cernusco sul Naviglio,Mi4,"9.3308377","45.5209871",metro
+116,Villa Fiorita,Mi4,"9.3460966","45.5204949",metro
+117,Villa Pompea,Mi5,"9.385051","45.5277793",metro
+118,Gessate,Mi6,"9.4366584","45.5452734",metro
+119,Romolo,Mi1,"9.1677011","45.4437345",metro
+120,Porta Genova FS,Mi1,"9.1693602","45.4520244",metro
+121,Sant Agostino,Mi1,"9.1698098","45.4585981",metro
+122,Sant Ambrogio,Mi1,"9.1733825","45.461773",metro
+123,Cadorna FN,Mi1,"9.176463","45.4682326",metro
+124,Lanza,Mi1,"9.1823052","45.4718013",metro
+125,Moscova,Mi1,"9.1843685","45.4770858",metro
+126,Sesto Rondò,Mi3,"9.2315475","45.5343356",metro
+127,Sesto Marelli,Mi1/Mi3,"9.2279272","45.5234791",metro
+128,Villa San Giovanni,Mi1,"9.2261092","45.5174649",metro
+129,Precotto,Mi1,"9.2244644","45.5120331",metro
+130,Gorla,Mi1,"9.2226651","45.5061558",metro
+131,Turro,Mi1,"9.2209865","45.5004487",metro
+132,Rovereto,Mi1,"9.2194872","45.495536",metro
+133,Pasteur,Mi1,"9.2179293","45.4902857",metro
+134,San Babila,Mi1,"9.197568","45.4666474",metro
+135,Palestro,Mi1,"9.2021428","45.4716297",metro
+136,Lima,Mi1,"9.2109589","45.480357",metro
+137,Cairoli,Mi1,"9.1819853","45.4684915",metro
+138,Cordusio,Mi1,"9.1862299","45.4655495",metro
+139,Sesto 1 Maggio FS,Mi3,"9.2383256","45.5416794",metro
+140,Pero,Mi3,"9.0857088","45.5088",metro
+141,Inganni,Mi1,"9.1222244","45.4575781",metro
+142,Primaticcio,Mi1,"9.1292549","45.4594303",metro
+143,Bande Nere,Mi1,"9.1364657","45.461524",metro
+144,Gambara,Mi1,"9.1430147","45.4649139",metro
+145,Molino Dorino,Mi1,"9.0933177","45.5051543",metro
+146,San Leonardo,Mi1,"9.1015462","45.5011378",metro
+147,Bonola,Mi1,"9.1101295","45.4970317",metro
+148,Uruguay,Mi1,"9.1202555","45.4938806",metro
+149,Lampugnano,Mi1,"9.1271948","45.489492",metro
+150,QT8,Mi1,"9.1370307","45.4860084",metro
+151,Lotto,Mi1,"9.1437786","45.479692",metro
+152,Amendola,Mi1,"9.1509963","45.4736967",metro
+153,Buonarroti,Mi1,"9.155316","45.4704169",metro
+154,De Angeli,Mi1,"9.1495656","45.4664527",metro
+155,Wagner,Mi1,"9.1555175","45.4678782",metro
+156,Pagano,Mi1,"9.161102","45.4683019",metro
+157,Conciliazione,Mi1,"9.1666054","45.467522",metro
+158,San Siro Stadio,Mi1,"9.1183538","45.4762325",metro
+159,San Siro Ippodromo,Mi1,"9.1290328","45.4760554",metro
+160,Segesta,Mi1,"9.1379391","45.476243",metro
+161,Portello,Mi1,"9.1506045","45.4813162",metro
+162,Tre Torri,Mi1,"9.1567618","45.478044",metro
+163,Domodossola FN,Mi1,"9.1619408","45.4814045",metro
+164,Gerusalemme,Mi1,"9.1666565","45.4844616",metro
+165,Cenisio,Mi1,"9.172262","45.4874537",metro
+166,Monumentale,Mi1,"9.1804883","45.4851181",metro
+167,Bignami,Mi1,"9.2121828","45.5267835",metro
+168,Ponale,Mi1,"9.2094704","45.5219991",metro
+169,Bicocca,Mi1,"9.2053603","45.5147332",metro
+170,Ca  Granda - Pratocentenaro,Mi1,"9.201118","45.5072418",metro
+171,Istria,Mi1,"9.197952","45.5016171",metro
+172,Marche,Mi1,"9.1949689","45.496352",metro
+173,Isola,Mi1,"9.1912938","45.487612",metro
+174,Dateo,"","9.2184474","45.4680015",metro
+175,Argonne,"","9.2319078","45.4680832",metro
+176,Susa,"","9.2248739","45.4680673",metro
+177,Tricolore,"","9.2077742","45.4679057",metro

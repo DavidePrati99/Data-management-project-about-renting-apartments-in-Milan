@@ -1,0 +1,11 @@
+"id","nome","descrizione","latitudine","longitudine","tempo_arrivo","week_day"
+1,Università  degli Studi di Milano Bicocca Piazza dell Ateneo Nuovo 1,Bicocca,"45.51831602417500","9.213787812259170","8:30",VERO
+2,Politecnico di Milano Piazza Leonardo da Vinci 32,Polimi Piola,"45.478187974309300","9.227234741474860","8:30",VERO
+3,Politecnico di Milano - Campus Bovisa La Masa Via Raffaele Lambruschini,Polimi Bovisa,"45.502873027560400","9.156420438933520","8:30",VERO
+4,Università  degli Studi di Milano Via Festa del Perdono 7,Statale sede principale,"45.460394647696400","9.194151254271470","8:30",VERO
+5,Arco della Pace Piazza Sempione,Arco della pace,"45.4757152406282","9.172451396602170","20:00",FALSO
+6,Piazza del Duomo- Milano,Piazza Duomo,"45.464230256427100","9.18962951267646","15:00",FALSO
+7,Stadio San Siro Piazzale Angelo Moratti,Stadio San Siro,"45.478060619995300","9.123958846027320","20:00",FALSO
+8,Pinacoteca di Brera Via Brera 28,Pinacoteca di Brera,"45.47195439649080","9.18781447812503","15:00",FALSO
+9,Darsena del Naviglio,Navigli,"45.45255290081690","9.17812568379149","20:00",FALSO
+10,Alcatraz Via Valtellina,Alcatraz,"45.49469649172360","9.18264726776813","20:00",FALSO
